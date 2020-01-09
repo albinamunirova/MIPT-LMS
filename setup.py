@@ -12,7 +12,7 @@ setup(
     url="https://github.com/albinamunirova/MIPT-LMS",
     license="MIT",
     packages=[
-        "mipt-lms",
+        "MIPT-LMS",
     ],
     install_requires=[
     ],
