@@ -5,14 +5,14 @@
 from setuptools import setup
 
 setup(
-    name="mipt-lms",
+    name="lms",
     version="0.0.0",
     author="Albina Munirova",
     author_email="albamoon@mail.ru",
     url="https://github.com/albinamunirova/mipt-lms",
     license="MIT",
     packages=[
-        "mipt-lms",
+        "lms",
     ],
     install_requires=[
     ],
