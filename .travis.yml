@@ -3,6 +3,7 @@ python:
   - 3.6
 install:
 - pip install codecov
+- pip install pytest-pycodestyle
 - pip install -r requirements.txt
 before_script:
   - chmod +x setup.py
