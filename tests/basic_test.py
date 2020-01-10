@@ -2,6 +2,7 @@ def test_start_app():
     """
     Dummy test
     """
-    pass
+    return True
+
 
 test_start_app()
