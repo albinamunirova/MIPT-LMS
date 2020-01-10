@@ -4,7 +4,6 @@ python:
 install:
 - pip install codecov
 - pip install -r requirements.txt
-- pip install pytest-pep8
 before_script:
   - chmod +x setup.py
 script:
